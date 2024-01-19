@@ -1,7 +1,7 @@
 ---
 epub: false
-title: Image Plates
+title: Catalogue
 layout: table-of-contents
 presentation: grid
-order: 7
+order: 100
 ---

@@ -4,9 +4,7 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: homepage-3.jpg
+image: spiral-overlay.png
 ---
 
-This richly illustrated catalogue examines the power of photography and its mobilisation within systems of knowledge and representation across Southeast Asian societies. Rather than just thinking about what photographs show, *Living Pictures* explores what photographs do, acknowledging that photographs have lives—they move and they act—and in the process, they affect the world around them.
-
-This groundbreaking catalogue accompanies the world’s first-ever survey of the medium’s histories across Southeast Asia, from its earliest beginnings in the 19<sup>th</sup> century until its diverse contemporary manifestations. It traces the creation, circulation and consumption of photography and how these processes have shaped the visual regimes of the region, through essays by the *Living Pictures* curators, interviews with artists and photographers featured in the exhibition, comprehensive plates including never-before published images, and new research by leading international scholars focusing on the interdisciplinary intersections between photography and art history, archaeology and cultural theory.
+In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.

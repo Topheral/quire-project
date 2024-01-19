@@ -1,21 +1,23 @@
 ---
-title: About *Living Pictures* Exhibition
+title: About
 layout: page
-order: 11
+order: 503
 outputs:
   - html
 ---
 
+This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
 
-The exhibition titled *Living Pictures: Photography in Southeast Asia* was a captivating journey through the evolving roles of photography in Southeast Asia. Held at the National Gallery Singapore from 2 December 2022 to 20 August 2023, it traced photography's transformation from a European exploratory tool to a medium of fine art and digital ubiquity in the region over 150 years. Visitors explored the artistic and documentary influences of photography through various lenses, including colonial explorations, studio portraits, wartime narratives and the contemporary digital age of memes and selfies. 
+This starter theme allows for the quick customization of a few key styles to make you publication project your own.
 
-Accompanying the visual display was the exhibition catalogue *Living Pictures*, available in both print and eBook formats, offering an in-depth contemplation of photography's compelling history and its pervasive impact on cultural and individual identity.
+- Modern and Classic type styles
+- Cover and splash page images
+- Accent color
+- Background colors
+- Navigation bar style
 
-<figure>
-  <a href="https://www.amazon.com/Living-Pictures-Photography-Southeast-Asia/dp/981184044X">
-    <img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/7196vM-i6uL._SY466_.jpg" alt="Get a Copy of Living Pictures Catalogue from Amazon">
-  </a>
-  <figcaption>
-    Get your copy of <em>Living Pictures</em> catalogue from Amazon.com today.
-  </figcaption>
-</figure>
+By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+
+The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+
+The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
