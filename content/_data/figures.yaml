@@ -1,0 +1,34 @@
+figure_list:
+
+  - id: "fig-1"
+    label: "Figure 1"
+    src: figures/pl-32.jpg
+    caption: "G.R. Lambert & Co. *Indian Dhobies* (inscribed as “Kling Washermen”). Early 20th century. Gelatin silver print on paper, 21.4 × 15.9 cm"
+    credit: "Collection of National Museum of Singapore, National Heritage Board, Singapore"
+
+
+  - id: "cat-1"
+    src: figures/pl-32.jpg
+    caption: "G.R. Lambert & Co, *Colonial Archive / Kling Washermen*, early 20th century."
+    credit: "Collection of National Museum Singapore, National Heritage Board Singapore"
+    download: true
+    zoom: true
+
+  - id: "cat-2"
+    src: figures/pl-282.jpg
+    caption: "Yee I-Lann, Detail of *Tabled*, 2013."
+    credit: Collection of Singapore Art Museum. Image courtesy of the artist and Silverlens
+    download: true
+    zoom: true
+
+  - id: "fig-2"
+    label: "Figure 2"
+    src: figures/pl-114.jpg
+    caption: "Robert Lenz. *King Chulalongkorn*. Early 1890s. Albumen print on paper, 22 × 16.2 cm. "
+    credit: "Collection of Mr and Mrs Lee"
+
+  - id: "cover"
+    label: "Cover of *Living Pictures* Catalogue"
+    src: figures/cover.jpg
+       
+

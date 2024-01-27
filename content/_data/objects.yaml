@@ -1,0 +1,31 @@
+object_display_order:
+  - artist
+  - year
+  - dimensions
+  - medium
+  - location
+
+object_list:
+
+  - id: 1
+    title: Colonal Archive / Kling Washermen
+    artist: G.R. Lambert & Co
+    year: Early 20<sup>th</sup> century
+    medium: Gelatin silver print on paper
+    dimensions: 21.4 cm × 15.9 cm (8.4 in × 10 in.)
+    location: National Museum Singapore
+    link:  
+    figure:
+      - id: "cat-1"
+
+  - id: 2
+    title: New Subjectivity / Tabled
+    artist: Yee I-Lann
+    year: 2013
+    medium: Ceramic rimmed flat plates with digital decal prints and back-stamp
+    dimensions: 195 cm × 312 cm (180 <sup>709</sup>⁄<sub>1000</sub> × 122 <sup>167</sup>⁄<sub>200</sub> in.)
+    location: Singapore Art Museum
+    link: 
+    figure:
+      - id: "cat-2"
+    

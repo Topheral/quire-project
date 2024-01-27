@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:8080/iiif/cat-2/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "http://localhost:8080/iiif/cat-2/canvas",
+      "type": "Canvas",
+      "height": 912,
+      "width": 913,
+      "items": [
+        {
+          "id": "http://localhost:8080/iiif/cat-2/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/iiif/cat-2/canvas/pl-282",
+              "motivation": "painting",
+              "target": "http://localhost:8080/iiif/cat-2/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "http://localhost:8080/iiif/cat-2/pl-282/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 912,
+                "width": 913,
+                "label": {
+                  "en": [
+                    "Pl-282"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "http://localhost:8080/iiif/cat-2/pl-282/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

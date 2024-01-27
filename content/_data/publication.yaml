@@ -1,0 +1,151 @@
+# ------------------------------------------------------------------------------
+
+# ==============================================================================
+# Publication.yml
+# ------------------------------------------------------------------------------
+#
+# This file houses the bibliographic info and general metadata for your digital
+# publication.
+
+# ------------------------------------------------------------------------------
+# The publication's base URL, i.e. 'https://www.my-publication.org'
+url: 'http://localhost:8080'
+
+# ------------------------------------------------------------------------------
+# Title & Description
+title: Living Pictures
+subtitle: Photography in Southeast Asia
+reading_line:
+short_title: Living Pictures
+
+description:
+  one_line:
+  full: "This richly illustrated catalogue examines the power of photography and its mobilisation within systems of knowledge and representation across Southeast Asian societies. Rather than just thinking about what photographs show, Living Pictures explores what photographs do, acknowledging that photographs have lives—they move and they act—and in the process, they affect the world around them.
+This groundbreaking catalogue accompanies the world’s first-ever survey of the medium’s histories across Southeast Asia, from its earliest beginnings in the 19th century until its diverse contemporary manifestations. It traces the creation, circulation and consumption of photography and how these processes have shaped the visual regimes of the region, through essays by the Living Pictures curators, interviews with artists and photographers featured in the exhibition, comprehensive plates including never-before published images, and new research by leading international scholars focusing on the interdisciplinary intersections between photography and art history, archaeology and cultural theory."
+
+# ------------------------------------------------------------------------------
+# Publication Details
+# ------------------------------------------------------------------------------
+
+pub_date: 2022-12-01 # YYYY-MM-DD
+language: en
+pub_type: book # book | journal-periodical | other
+
+identifier:
+  isbn: 
+
+publisher:
+  - name: National Gallery Singapore
+    location: Singapore
+    url:
+    logo: NGS-logo.jpg
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+contributor_as_it_appears:
+
+contributor:
+  - id: CT
+    type: primary
+    first_name: Charmaine
+    last_name: Toh
+    title: Former Senior Curator at National Gallery Singapore
+    affiliation: 
+    bio: "Charmaine Toh earned her PhD at the University of Melbourne, researching pictorial photography in Singapore from the 1950s to 1970s. She was Senior Curator at National Gallery Singapore where she worked on exhibitions such as *Siapa Nama Kamu: Art in Singapore since the 19th Century* (2015), *Earthwork 1979* (2016) and *Living Pictures* (2022). Previously, Charmaine was the Programme Director at Objectifs Centre for Photography and Film. She co-curated the 2013 Singapore Biennale."
+    url: 
+    image: contributors/CT.png
+  - id: ET
+    type: secondary
+    first_name: Eugene
+    last_name: Tan
+    title: Museum Director at National Gallery Singapore
+    affiliation: 
+    bio: "Dr. Eugene Tan is Museum Director of both National Gallery Singapore (NGS) and Singapore Art Museum (SAM)."
+    url: 
+    image: contributors/ET.jpg
+  - id: Sze
+    type: secondary
+    first_name: Sze Ying
+    last_name: Goh
+    title: Curator at National Gallery Singapore
+    affiliation: 
+    bio: "Goh Sze Ying is Curator at National Gallery Singapore. She has worked on exhibitions including *Living Pictures: Photography in Southeast Asia (2022)*, *Ever Present: First Peoples Art of Australia (2022)*, *Minimalism: Space. Light. Object. (2018)*. In 2019, she also co-curated the 6<sup>th</sup> edition of the Singapore Biennale, *Every Step in the Right Direction*."
+    url: 
+    image: contributors/Sze.jpg
+  - id: Roy
+    type: secondary
+    first_name: Roy
+    last_name: Ng
+    title: Assistant Curator at National Gallery Singapore
+    affiliation: 
+    bio: "Roy Ng is Assistant Curator at National Gallery Singapore."
+    url: 
+    image: contributors/Roy.jpg
+# ------------------------------------------------------------------------------
+# Copright & License
+# ------------------------------------------------------------------------------
+
+copyright: © 2024 National Gallery Singapore
+
+license:
+  name: Creative Commons Attribution 4.0 International License
+  abbreviation: CC BY
+  url: https://creativecommons.org/licenses/by/4.0/
+  scope: full # full | text-only | some-exceptions
+
+# ------------------------------------------------------------------------------
+# Formats, Resources & Links
+# ------------------------------------------------------------------------------
+
+resource_link:
+  - type: other-format
+    name: PDF
+    media_type: application/pdf
+    link_relation: alternate
+    url: /downloads/output.pdf
+  - type: other-format
+    name: EPUB
+    media_type: application/epub+zip
+    link_relation: alternate
+    url: /downloads/output.epub
+  - type: footer-link
+    name: About
+    link_relation: about
+    url: /about/
+  - type: footer-link
+    name: Privacy Policy
+    link_relation: privacy-policy
+    url:
+  - type: footer-link
+    name: Terms of Use
+    link_relation: terms-of-service
+    url:
+
+# ------------------------------------------------------------------------------
+# Subjects
+# ------------------------------------------------------------------------------
+
+subject:
+  - type: bisac
+    name: PHOTOGRAPHY / Subjects & Themes / Historical
+    identifer: PHO023100
+  - type: keywords
+    name: photography, Southeast Asia
+
+# ------------------------------------------------------------------------------
+# Revision History
+# ------------------------------------------------------------------------------
+
+revision_history:
+  - date:
+    summary:
+
+repository_url:
+
+# ------------------------------------------------------------------------------
+# Promo Image
+# ------------------------------------------------------------------------------
+
+promo_image: static-cover.png
