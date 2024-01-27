@@ -2,7 +2,7 @@
 title: Image Slider
 subtitle: test image slider
 layout: base
-order: 12
+order: 13
 ---
 
 <style>
