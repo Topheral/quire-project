@@ -3,13 +3,13 @@ figure_list:
   - id: "fig-1"
     label: "Figure 1"
     src: figures/pl-32.jpg
-    caption: "G.R. Lambert & Co. *Indian Dhobies* (inscribed as “Kling Washermen”). Early 20th century. Gelatin silver print on paper, 21.4 × 15.9 cm"
+    caption: "G.R. Lambert & Co. *Indian Dhobies* (inscribed as “Kling Washermen”). Early 20<sup>th</sup> century. Gelatin silver print on paper, 21.4 × 15.9 cm"
     credit: "Collection of National Museum of Singapore, National Heritage Board, Singapore"
 
 
   - id: "cat-1"
     src: figures/pl-32.jpg
-    caption: "G.R. Lambert & Co, *Colonial Archive / Kling Washermen*, early 20th century."
+    caption: "G.R. Lambert & Co, *Colonial Archive / Kling Washermen*, early 20<sup>th</sup> century."
     credit: "Collection of National Museum Singapore, National Heritage Board Singapore"
     download: true
     zoom: true
