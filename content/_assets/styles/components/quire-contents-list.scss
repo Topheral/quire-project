@@ -552,6 +552,8 @@
       .card.image {
         font-size: 1rem;
         .card-content {
+          height: 110px;
+          overflow-y: auto;
           font-size: 1.125em;
           padding: 1.5em;
         }
