@@ -88,13 +88,13 @@ body {
     <button class="carousel-button next" data-carousel-button="next">&#8658;</button>
     <ul data-slides>
       <li class="slide" data-active>
-        <img src="https://source.unsplash.com/78A265wPiO4" alt="Nature Image #1">
+        <img src="https://dplusa.s3-ap-southeast-1.amazonaws.com/uploads/d-a-design-and-architecture-national-gallery-singapore-ngs-8.jpg" alt="Image #1">
       </li>
       <li class="slide">
-        <img src="https://source.unsplash.com/eOpewngf68w" alt="Nature Image #2">
+        <img src="https://dplusa.s3-ap-southeast-1.amazonaws.com/uploads/d-a-design-and-architecture-national-gallery-singapore-ngs-7.jpg" alt="Image #2">
       </li>
       <li class="slide">
-        <img src="https://source.unsplash.com/ndN00KmbJ1c" alt="Nature Image #3">
+        <img src="https://dplusa.s3-ap-southeast-1.amazonaws.com/uploads/d-a-design-and-architecture-national-gallery-singapore-ngs-6.jpg" alt="Image #3">
       </li>
     </ul>
   </div>
