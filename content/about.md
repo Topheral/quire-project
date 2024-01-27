@@ -1,7 +1,7 @@
 ---
 title: About *Living Pictures* Exhibition
 layout: page
-order: 11
+order: 12
 outputs:
   - html
 ---
