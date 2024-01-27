@@ -2,3 +2,30 @@
 .special-translation-1 {
     transform: translate(-3px, -2px);
 }
+
+.special-button-enter {
+    border: 1px solid white;
+    width: fit-content;
+    /* padding: 8px 16px; */
+    margin: 24px 0 0;
+    color: white;
+    font-size: 24px;
+    width: 100px;
+    height: 50px;
+
+    :hover {
+        background-color: white;
+        color: black;
+        transition: 0.5s;
+    }
+} 
+
+.special-button-enter-inside {
+    color: white;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
