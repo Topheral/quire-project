@@ -56,7 +56,25 @@ module.exports = class TableOfContents {
           </div>
           ${this.pageButtons({ pagination })}
         </div>
-      </section>`,
+      </section>
+      <div class="special-footer-copyright">
+        <div>
+          Copyright &copy; 2024 National Gallery Singapore. All rights reserved
+        </div>
+        <div class="special-small-screen-gone">
+          |
+        </div>
+        <div>
+        <a href="https://www.nationalgallery.sg/privacy-policy" target="_blank">Privacy Policy</a>
+        </div>
+        <div class="special-small-screen-gone">
+          |
+        </div>
+        <div>
+          <a href="https://www.nationalgallery.sg/" target="_blank">Website</a>
+        </div>
+      </div>`
+      ,
       'liquid',
       data
     )
