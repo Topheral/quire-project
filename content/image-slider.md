@@ -74,11 +74,11 @@ body {
 }
 
 .carousel-button.prev {
-  left: 1rem;
+  left: 3rem;
 }
 
 .carousel-button.next {
-  right: 1rem;
+  right: 3rem;
 }
 </style>
 
