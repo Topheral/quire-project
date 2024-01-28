@@ -746,7 +746,7 @@ $image-divider-height: 16px;
   @media screen and (min-width: $desktop) {
     position: fixed;
     /* top offsets 50px tall nav bar */
-    top: 50px;
+    // top: 50px;
     /* calculated width accounts for extra 8px of margin in .quire-entry__image-wrap */
     width: calc(56% - 8px);
     /* calculated height accounts for 50px tall nav bar */
