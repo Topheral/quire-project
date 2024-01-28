@@ -30,15 +30,21 @@
     font-weight: 600;
 }
 
+.special-footer-image {
+    width: 50px;
+    margin-right: 8px;
+}
+
 .special-footer-copyright {
     font-size: 14px;
     margin: 0;
-    padding: 20px 0;
+    padding: 10px 0;
     text-align: center;
     width: 100%;
     background-color: #1d1d1e;
     color: #f2f2ed;
     display: flex;
+    align-items: center;
     flex-direction: row;
     padding-left: 10%;
     gap: 8px;

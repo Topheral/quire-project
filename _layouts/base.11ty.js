@@ -42,6 +42,9 @@ module.exports = async function(data) {
         ${await this.modal(figures)}
         ${this.scripts()}
         <div class="special-footer-copyright">
+          <div class="special-footer-image">
+            <img src="https://www.nationalgallery.sg/nationalgallery-og.png" alt="National Gallery Singapore Logo" />
+          </div>
           <div>
             Copyright &copy; 2024 National Gallery Singapore. All rights reserved
           </div>
